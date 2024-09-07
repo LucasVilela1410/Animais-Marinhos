@@ -2,7 +2,7 @@ let dados = [
     {
         titulo: "Baleias: Gigantes dos Mares",
         descricao: "As baleias são mamíferos marinhos de grande porte, conhecidas por sua beleza e inteligência. Elas habitam todos os oceanos do planeta e possuem adaptações incríveis para a vida aquática, como uma espessa camada de gordura que as isola do frio e um sistema respiratório adaptado para longos mergulhos. As baleias se comunicam através de complexos sons, e algumas espécies realizam longas migrações em busca de alimento. Apesar de sua imponência, as baleias enfrentam diversas ameaças, como a poluição dos oceanos e a caça ilegal, o que torna a conservação dessas magníficas criaturas uma prioridade global.",
-        link: "https://brasilescola.uol.com.br.br/animais/baleias.htm",
+        link: "https://brasilescola.uol.com.br/animais/baleias.htm",
         tags: "baleia jubarte azul orca cetáceo grande porte oceano migração inteligente canção"
     },
     {
